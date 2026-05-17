@@ -116,7 +116,7 @@
 > >
 > > ## 🤖 Models
 > >
-> > | Approach | Model | Notes |
+> > | Approach | Model | Notes | 
 > > |---|---|---|
 > > | Rule-based | TextBlob | Polarity score threshold |
 > > | Rule-based | VADER | Compound score threshold, handles social media text |
